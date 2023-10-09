@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="008ce9d8-54d4-4847-bc98-388dfca24d65" name="Aladin-cmd">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
