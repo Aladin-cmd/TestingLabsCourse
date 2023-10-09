@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="q" type="JAVA" />
+      <mapping pattern="g" type="JAVA" />
+      <mapping pattern="gg" type="JAVA" />
+      <mapping ext="obj" type="Jme Model" />
+    </extensionMap>
+  </component>
+</application>
